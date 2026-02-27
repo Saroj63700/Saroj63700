@@ -1,54 +1,78 @@
-<div style="font-family: Arial, sans-serif; max-width: 900px; margin: auto;">
+<div style="font-family: Arial, sans-serif; line-height: 1.6; text-align:center;">
 
-  <h1 style="color:#2c3e50; margin-bottom:5px;">
-    👋 Hi, I'm Saroj
-  </h1>
+  <!-- Developer Banner GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+       width="100%" 
+       style="max-height:300px; object-fit:cover; border-radius:10px;" />
 
-  <p style="font-size:16px; color:#555;">
-    🚀 .NET Backend Developer | ASP.NET & .NET Core | SQL Server Specialist  
-    <br/>
-    💼 2+ Years of Experience in Enterprise Web Applications
+  <h1 style="color:#2c3e50; margin-top:20px;">Hi 👋, I'm Saroj</h1>
+  <h3 style="color:#555;">🚀 Passionate .NET Backend Developer</h3>
+
+  <p style="max-width:800px; margin:auto; color:#444;">
+    I am a dedicated .NET Developer with 2+ years of experience building 
+    secure, scalable web applications using ASP.NET, .NET Core, and SQL Server.
+    I love solving real-world backend problems and optimizing database performance.
   </p>
 
-  <hr style="border:0; height:1px; background:#ddd; margin:20px 0;"/>
+  <br/>
 
-  <h2 style="color:#34495e;">👨‍💻 About Me</h2>
-  <p style="color:#555; line-height:1.6;">
-    I am a passionate .NET Developer with 2+ years of hands-on experience in building 
-    secure, scalable, and database-driven web applications.  
-    I specialize in ASP.NET Web Forms, .NET Core MVC, SQL Server, and API development.  
-    I enjoy solving real-world business problems, optimizing SQL queries, and improving application security.
-  </p>
+  <!-- Coding GIF -->
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" 
+       width="400px" 
+       style="border-radius:10px;" />
 
-  <h2 style="color:#34495e;">🛠 Technical Skills</h2>
+  <hr style="margin:30px 0; border:0; height:1px; background:#ddd;" />
 
-  <ul style="color:#555; line-height:1.8;">
-    <li><b>Backend:</b> C#, ASP.NET Web Forms, .NET Core MVC, Web API</li>
-    <li><b>Database:</b> SQL Server, Stored Procedures, Query Optimization</li>
-    <li><b>Frontend:</b> HTML, CSS, JavaScript, jQuery, Bootstrap</li>
-    <li><b>Architecture:</b> Layered Architecture, Manual CRUD, ADO.NET</li>
-    <li><b>Security:</b> Authentication, LDAP Integration, Input Validation, Fixing ZAP Issues</li>
-    <li><b>Tools:</b> Visual Studio, Git, SSMS</li>
+  <h2 style="color:#34495e;">🛠 Tech Stack</h2>
+
+  <div style="background:#f8f9fa; padding:20px; border-radius:10px; display:inline-block;">
+    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
+
+  </div>
+
+  <hr style="margin:30px 0; border:0; height:1px; background:#ddd;" />
+
+  <h2 style="color:#34495e;">📌 What I'm Working On</h2>
+  <ul style="list-style:none; padding:0; color:#444;">
+    <li>✔ Strengthening Data Structures & Algorithms in C#</li>
+    <li>✔ Building scalable .NET Core applications</li>
+    <li>✔ SQL Stored Procedure Optimization</li>
+    <li>✔ Preparing for high-paying MNC roles</li>
   </ul>
 
-  <h2 style="color:#34495e;">📌 Current Focus</h2>
-  <ul style="color:#555; line-height:1.8;">
-    <li>Building scalable APIs using .NET Core</li>
-    <li>Strengthening Data Structures & Algorithms in C#</li>
-    <li>Improving system performance & clean architecture skills</li>
-    <li>Preparing for high-paying MNC opportunities</li>
-  </ul>
+  <hr style="margin:30px 0; border:0; height:1px; background:#ddd;" />
 
-  <h2 style="color:#34495e;">📈 Career Goal</h2>
-  <p style="color:#555; line-height:1.6;">
-    To become a high-impact Backend Engineer specializing in enterprise-grade systems, 
-    cloud-ready architecture, and performance-optimized applications.
+  <h2 style="color:#34495e;">📊 GitHub Stats</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="48%"/>
+
+  <hr style="margin:30px 0; border:0; height:1px; background:#ddd;" />
+
+  <h2 style="color:#34495e;">📫 Connect With Me</h2>
+
+  <p>
+    📧 your-email@example.com <br/>
+    💼 LinkedIn: your-linkedin-link <br/>
+    💻 GitHub: https://github.com/your-username
   </p>
 
-  <hr style="border:0; height:1px; background:#ddd; margin:20px 0;"/>
+  <br/>
 
-  <p style="color:#777; font-size:14px;">
-    ⭐ Always learning. Always building. Always improving.
-  </p>
+  <div style="color:#777; font-size:14px;">
+    ⭐ Always Learning | Always Building | Always Improving
+  </div>
 
 </div>
