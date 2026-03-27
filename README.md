@@ -1,27 +1,8 @@
 <div style="max-width:900px; margin:auto; font-family:Segoe UI, sans-serif; line-height:1.6;">
 
- <h1 align="center">
-  Hi <span class="wave">👋</span>, I'm Saroj Panda
-</h1>
-
-<style>
-.wave {
-  display: inline-block;
-  animation: wave-animation 2s infinite;
-  transform-origin: 70% 70%;
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate(0deg); }
-  15% { transform: rotate(14deg); }
-  30% { transform: rotate(-8deg); }
-  40% { transform: rotate(14deg); }
-  50% { transform: rotate(-4deg); }
-  60% { transform: rotate(10deg); }
-  70% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
+  <h1 align="center">
+    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Saroj Panda
+  </h1>
 
   <p align="center">
     <b>.NET Core Developer | Web API | SQL Server | Azure (Basic)</b>
@@ -77,8 +58,19 @@
   <h2>📊 GitHub Stats</h2>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" width="48%"/>
+
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true" 
+      width="100%" 
+      style="max-width:600px; margin-bottom:20px;" 
+    />
+
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" 
+      width="100%" 
+      style="max-width:600px;" 
+    />
+
   </div>
 
   <hr/>
