@@ -17,7 +17,7 @@
   <h2>👨‍💻 About Me</h2>
 
   <ul>
-    <li>🔹 2+ years experience in ASP.NET Core & Web API</li>
+    <li>🔹 3.5+ years experience in ASP.NET Core & Web API</li>
     <li>🔹 Strong in SQL Server & database design</li>
     <li>🔹 Experience with JWT Authentication & REST APIs</li>
     <li>🔹 Currently learning Azure & cloud deployment</li>
