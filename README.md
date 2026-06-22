@@ -9,7 +9,7 @@
   </p>
 
   <p align="center">
-    Passionate backend developer with 2+ years of experience building scalable web applications using ASP.NET Core and SQL Server.
+    Passionate backend developer with 3.5+ years of experience building scalable web applications using ASP.NET Core and SQL Server.
   </p>
 
   <hr/>
